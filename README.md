@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Tanishq, a backend/full-stack developer focused on building fast, reliable systems.
+I'm Tanishq, a senior cs major @ ubc, passionate about building fast, reliable systems.
 
 ## Current Focus
 
