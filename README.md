@@ -8,6 +8,4 @@ I'm currently focusing on fullstack/backend and infrastructure/systems programmi
 
 I have past experience in Web Development, Databases, and infrastructure engineering. I've deployed countless applications, built a vehicle routing optimizer, and launched RAG AI agents.
 
-P.S. I'm in google team matching (2026 swe intern), and looking to meet hosts! Any introductions would be greatly appreciated! :)
-
 
