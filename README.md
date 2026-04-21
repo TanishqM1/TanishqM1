@@ -1,10 +1,12 @@
-## Hi there 👋 
+## Hi! 👋 
 
-I'm Tanishq, a senior cs major @ ubc, passionate about building fast, reliable systems.
+I'm Tanishq, a senior cs major @ ubc from Vancouver. I love hiking, listening to music, programming, and exploring the city.
+
 
 ## Current Focus
 
-I'm really passionate about fullstack/backend and infrastructure/systems programming. I work with Python, C++, Java, Go, and TypeScript (Next.js/React), and have built real-world applications where I see the direct impact of my code. 
+I'm passionate about fintech, distributed systems, and applied AI. I currently focus on fullstack and infrastructure development, and mainly work with Python, Go, C++, Java, and TypeScript (Next.js/React). 
 
-I have experience in Performance Systems, Infrastructure Engineering, Web Dev, and Databases. I've deployed countless applications, built a vehicle routing optinmizer, and built automated solutions using Agentic AI.
+I've spent my past few internships building everything from a vehicle routing engine and Agentic AI infrastructure to Fullstack applications and large-scale diagnostic tools.
 
+I've been fortunate to see the real world impact of the software I've written, and that means a lot to me.
